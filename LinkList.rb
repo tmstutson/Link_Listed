@@ -37,15 +37,7 @@ def print_values(list_node)
 		print "nil\n"
 	end 
 end 
-# head -> . -> . -> tail -> nil
 
-# head
-# tail
-# 4    -> 3 -> 2 -> 1
-
-
-
-# nil
 def reverse_list(list)
 	stack = Stack.new
 
